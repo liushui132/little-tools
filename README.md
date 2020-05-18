@@ -1,23 +1,3 @@
 # little-tools
-#自己写的一个爬取google的小脚本，主要是为了批量收集某一类型的url,原理很简单，不被封的原理也就是大量的google站点和随机代理头和爬一会停一会
-因为对爬取速度没什么要求，所以没用框架和多线程，也是怕封，也是不会。哈哈。
-没加代理池，相加自己加，，，也挺简单，我是觉得我用不到。。。
-
--h, --help
--u URL_ KEY， --ur1_ key URL_ KEY
--n NUMBER, - number NUMBER
--f FILENAME, -- fi lename F ILENAME
--t SLEEPTIME， -- sleeptime SLEEPTIME
--v VERIFY, --verify VERIFY
--k {https://, http://}, --kind {https://, http://} 
-
-
--u 是 爬取的关键词
--n  是爬取的页数，一页10个url嘛。
--f 是保存的文件名字，默认为 result.txt
--t 就是爬一页的 然后sleep的时间
--v 就是是否采用 https代理来爬 ，默认是https
--k 就是指定爬取网页类型 默认 爬取 http和https ，可以分别设置只爬一种
-
-老哥们看见的话点个星行吗！！！！  
-多谢大佬！
+自己写的小工具！！！
+希望能帮到自己和大佬们
